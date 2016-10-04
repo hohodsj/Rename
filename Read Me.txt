@@ -1,4 +1,6 @@
-Important Note: Please check if you have java install in your computer. If you are not sure, please scroll to the end and read “TO CHECK if java is installed in your computer” section. 
+Important Note: 
+1.Make sure you rename your downloaded folder to Rename
+2.Please check if you have java install in your computer. If you are not sure, please scroll to the end and read “TO CHECK if java is installed in your computer” section. 
 
 
 Introduction:
