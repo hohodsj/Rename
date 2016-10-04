@@ -1,3 +1,3 @@
-java renameV2
+java rename
 
 pause

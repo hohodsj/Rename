@@ -9,7 +9,7 @@ import java.io.*;
  * 4. append keywords at the end of the existing name
  */
 
-public class renameV2
+public class rename
 {
     public static void main (String[] args)
     {

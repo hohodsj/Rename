@@ -1,4 +1,4 @@
 #!/bin/bash
-    cd /Users/hoho/Google\ Drive/Programs/For\ Fun/RenameV2
+    cd /Users/$USER/Desktop/Rename
 	javac renameV2.java
 	java renameV2
