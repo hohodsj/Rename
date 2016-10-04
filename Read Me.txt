@@ -1,0 +1,107 @@
+Important Note: Please check if you have java install in your computer. If you are not sure, please scroll to the end and read “TO CHECK if java is installed in your computer” section. 
+
+
+Introduction:
+The purpose of this program is to organize files by their names. 
+There are 4 options:
+1. save keywords
+2. remove keywords
+3. add keywords in front of the existing name
+4. append keywords at the end of the existing name
+
+note:
+For save or remove keywords option you can put spaces between keywords to separate
+them.
+
+* To run the program:
+1.
+  Copy and paste RenameV2 to your desktop.
+2.
+  Windows users: double click RunWindows file.
+  Mac users: double click on RunMac file.
+
+* How to use the program:
+
+e.g.
+If the file name is “TI84PlusGuidebook_Part2_EN.pdf”, and only keywords “TI84”, “Guidebook” and “2” is needed. 
+Here is what you need to do:
+
+1. Run the program
+
+2. When ask options press 1 to select “To save keyword(s)”
+
+3. Under “Please enter the word(s) to save (separate by space). If quit type /quit”
+   type the following:
+   TI84 Guidebook 2
+
+4. Under “Enter path name (eg./Users/username/Desktop/FOLDER or drag FOLDER)”
+   drag your folder to the console.
+5. Done!
+
+Same procedure for remove
+
+* How to quit program:
+You can quit the program almost anytime besides during renaming process. Simply select 0 when you first enter or type /quit during process.
+
+* How to save/remove SPACE
+It is simple to save or remove spaces in your file
+
+e.g.
+If the file name is “TI84 Plus Guidebook Part2 EN.pdf”, and only keywords “TI84 Plus”, “Guidebook ” and “2” is needed. 
+Here is what you need to do:
+
+1. Run the program
+
+2. When ask options press 1 to select “To save keyword(s)”
+
+3. Under “Please enter the word(s) to save (separate by space). If quit type /quit”
+   type the following:
+   TI84+Plus Guidebook+ 2
+
+4. Under “Enter path name (eg./Users/username/Desktop/FOLDER or drag FOLDER)”
+   drag your folder to the console.
+5. Done!
+
+Same procedure for remove
+
+* How to use /pre option
+/pre option is a convenient way to save your time. The program will remember your words of processed and file path. Next time you can type /pre when prompted “Please enter the words …” and “Enter path name”, it will access the previous words and path.
+
+* How to use /num
+/num is an extra function when you want to process numbers from 0-9. 
+
+e.g.
+If your files have names like the following:
+IMG1.jpg Song2.mp3
+And suppose you want to remove the numbers.
+Here is what you need to do:
+
+1. Run the program
+
+2. When ask options press 2 to select “To remove keyword(s)”
+
+3. Under “Please enter the words to remove (separate by space).”
+   type the following:
+   /num
+
+4. Under “Enter path name (eg./Users/username/Desktop/FOLDER or drag FOLDER)”
+   drag your folder to the console.
+
+5. Done!
+Notice: you can use /num with other keywords too. 
+For example:
+When step3 ask “Please enter the words to remove (separate by space).”
+You can type: word1 word2 /num
+
+
+* TO CHECK if java is installed in your computer:
+
+For WINDOWS users: Go to Search Windows (or click start), and type CMD then hit enter. After you enter to a Command Prompt(a black window), type java -version and then hit enter. It should show java version number.
+
+For MAC users: Go to upper right corner and click on the magnify glass and type terminal and hit enter. After you enter terminal, type java -version and then hit enter. It should show java version number.
+
+To download java, please visit 
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+click on Java DOWNLOAD
+and select the appropriate version for your computer.
+
